@@ -1,7 +1,7 @@
 # 🌙 LunaLearn — AI-Powered Study Companion
 LunaLearn is an AI-driven study companion that helps decrease the barriers to learning through guided study sessions, smart explanations, summaries, and auto-generated flashcards. Built with React, TypeScript, Spring Boot, and PostgreSQL, it provides a calm, supportive workspace to help learners understand deeply and study more effectively.
 
-## Table of Contents
+# Table of Contents
 - [Overview](#overview)
 - [MVP Scope](#mvp-scope)
 - [Future Enhancements](#future-enhancements)
