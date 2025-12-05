@@ -106,7 +106,6 @@ These features fall outside the scope of the MVP and will be added iteratively.
 - React  
 - TypeScript  
 - React Router  
-- (Optional) React Query  
 - CSS Modules / Styled Components  
 
 ### **Backend:**  
@@ -117,12 +116,10 @@ These features fall outside the scope of the MVP and will be added iteratively.
 
 ### **Database:**  
 - PostgreSQL  
-- (Optional) Flyway migrations  
 
 ### **Tooling:**  
 - Docker  
 - Maven/Gradle  
-- GitHub Actions (optional)
 
 # Getting Started
 Setup instructions will be added once scaffolding is complete.
