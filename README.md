@@ -6,9 +6,7 @@ LunaLearn is an AI-driven study companion that helps decrease the barriers to le
 - [MVP Scope](#mvp-scope)
 - [Future Enhancements](#future-enhancements)
 - [Tech Stack](#tech-stack)
-- [Repository Structure](#repository-structure)
 - [Getting Started](#getting-started)
-- [Roadmap](#roadmap)
 
 # Overview
 The goal of LunaLearn is to blend thoughtful, simple UX with AI-powered learning tools to make studying less overwhelming and more effective. Users can:
