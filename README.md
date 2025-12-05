@@ -22,7 +22,7 @@ The goal of LunaLearn is to blend thoughtful, simple UX with AI-powered learning
 # MVP Scope
 The MVP focuses on delivering a functional, end-to-end study experience with the essential tools needed for meaningful learning.
 
-## **Main Dashboard**
+### **Main Dashboard**
 - Welcome message/onboarding  
 - “Resume Last Session” banner  
 - Quick actions:
@@ -32,7 +32,7 @@ The MVP focuses on delivering a functional, end-to-end study experience with the
   - Enter Stuck Mode  
 - Recent activity list
 
-## **Study Session Workspace**
+### **Study Session Workspace**
 - Topic + goal display  
 - Notion-style notes editor  
 - Auto-save  
@@ -43,7 +43,7 @@ The MVP focuses on delivering a functional, end-to-end study experience with the
   - Generate flashcards  
 - Reflection modal on session end
 
-## **Explain Mode**
+### **Explain Mode**
 - Paste text to receive structured explanations  
 - Follow-up actions:
   - Simplify  
@@ -51,23 +51,23 @@ The MVP focuses on delivering a functional, end-to-end study experience with the
   - Convert to flashcards  
   - Insert into session notes
  
-## **Flashcards**
+### **Flashcards**
 - Create sets manually or through AI  
 - Review cards (flip, mark known/unknown)  
 - Manage sets
 
-## **Stuck Mode**
+### **Stuck Mode**
 - User describes what they're struggling with  
 - AI provides emotional support + micro-steps  
 - Option to start a new study session from the response
 
-## **Backend Functionality**
+### **Backend Functionality**
 - CRUD for sessions, notes, flashcards  
 - AI service integration  
 - Minimal authentication or single-user mode for MVP  
 - REST API with endpoints for core features
 
-## **Deployment Setup**
+### **Deployment Setup**
 - Frontend deployable
 - Backend deployable
 - Cloud-hosted PostgreSQL  
