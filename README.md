@@ -5,8 +5,8 @@ LunaLearn is an AI-driven study companion that helps decrease the barriers to le
 # Table of Contents
 - [Overview](#overview)
 - [MVP Scope](#mvp-scope)
-- [Future Enhancements](#future-enhancements)
 - [Tech Stack](#tech-stack)
+- [Future Enhancements](#future-enhancements)
 - [Getting Started](#getting-started)
 
 # Overview
@@ -72,6 +72,26 @@ The MVP focuses on delivering a functional, end-to-end study experience with the
 - Cloud-hosted PostgreSQL  
 - Environment variables for configuration
 
+# Tech Stack
+### **Frontend:**  
+- React  
+- TypeScript  
+- React Router  
+- CSS Modules / Styled Components  
+
+### **Backend:**  
+- Java 17+  
+- Spring Boot  
+- Spring Data JPA  
+- OpenAI API  
+
+### **Database:**  
+- PostgreSQL  
+
+### **Tooling:**  
+- Docker  
+- Maven/Gradle  
+
 # Future Enhancements
 These features fall outside the scope of the MVP and will be added iteratively.
 
@@ -101,26 +121,6 @@ These features fall outside the scope of the MVP and will be added iteratively.
 ### **Collaboration**
 - Share sessions or flashcards  
 - Peer/mentor mode
-
-# Tech Stack
-### **Frontend:**  
-- React  
-- TypeScript  
-- React Router  
-- CSS Modules / Styled Components  
-
-### **Backend:**  
-- Java 17+  
-- Spring Boot  
-- Spring Data JPA  
-- OpenAI API  
-
-### **Database:**  
-- PostgreSQL  
-
-### **Tooling:**  
-- Docker  
-- Maven/Gradle  
 
 # Getting Started
 Setup instructions will be added once scaffolding is complete.
